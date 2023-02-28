@@ -165,7 +165,7 @@ html{
 .sobremi .fila .col .contenedor-intereses{
     display: flex;
     flex-wrap: wrap;
-    margin-left: 75px;
+    margin-left: 80px;
 }
 .sobremi .fila .col .contenedor-intereses .interes{
     width: 100px;
