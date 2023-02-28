@@ -176,6 +176,7 @@ html{
     align-items: center;
     justify-content: center;
     transition: .3s;
+    text-align: center;
 }.sobremi .fila .col .contenedor-intereses .interes:hover{
     background-color: #1CB698;
 }
