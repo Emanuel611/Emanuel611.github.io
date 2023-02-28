@@ -103,6 +103,7 @@ html{
     margin: 40px 5px;
     font-size: 20px;
     transition: .3s;
+    text-align: center;
 }
 .inicio .contenido-banner .redes a:hover{
     background-color: #1CB698;
